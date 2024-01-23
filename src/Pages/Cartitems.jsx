@@ -13,6 +13,9 @@ const Cartitems = () => {
         <p>total</p>
         <p>Remove</p>
       </div>
+
+  
+
       <hr />
     {AllProductsData.map((e)=>{
         if(cartItem[e.id]>0) 

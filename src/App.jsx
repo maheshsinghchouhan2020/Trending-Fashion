@@ -8,6 +8,7 @@ import Home from './Pages/Home/Home'
 import Shop from './Pages/Shop/Shop'
 import Blog from './Pages/Blog/Blog'
 import Product from './Pages/Product/Product'
+
 const App = () => {
   return (
     <>
